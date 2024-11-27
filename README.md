@@ -1,7 +1,7 @@
 App em react-native usando expo.
-<img src="/print.jpeg">
-<img src="/print1.jpeg">
-<img src="/print2.jpeg">
+<img src="/print.jpeg" height="400">
+<img src="/print1.jpeg" height="400">
+<img src="/print2.jpeg" height="400">
 
 # App
 
