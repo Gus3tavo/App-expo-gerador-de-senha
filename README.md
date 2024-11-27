@@ -1,6 +1,9 @@
 App em react-native usando expo.
+<img src="/print.jpeg">
+<img src="/print1.jpeg">
+<img src="/print2.jpeg">
 
-# Meu App
+# App
 
 Este é o código-fonte do app **Gerador de Senhas**.
 
@@ -20,7 +23,7 @@ Baixe a versão mais recente do app no link abaixo:
    ```bash
    npm install
 3. Rode o projeto:
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 
